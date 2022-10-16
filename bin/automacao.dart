@@ -56,6 +56,6 @@ void main() {
   String? mudarAssunto = stdin.readLineSync();
 
   if (mudarAssunto == 'Sim') {
-    print('Espero que tenha curtido até aqui, nos vemos no Linkedin xD');
+    print('Espero que tenha curtido até aqui, nos vemos por aí xD');
   }
 }
